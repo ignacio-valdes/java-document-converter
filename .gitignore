@@ -1,0 +1,46 @@
+# ===================================================================
+# Archivos generados por Maven
+# ===================================================================
+# La carpeta 'target' contiene todos los archivos compilados (.class),
+# el JAR final y otros archivos generados por la compilación.
+# Esta es la carpeta más importante que debes ignorar.
+/target/
+
+# Archivos temporales de Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# ===================================================================
+# Archivos generados por el IDE NetBeans
+# ===================================================================
+# Carpetas de construcción y distribución de NetBeans
+/nbbuild/
+/dist/
+/nbdist/
+/build/
+
+# Contiene configuración privada y específica del usuario
+/nbproject/private/
+
+# Archivos de caché y estado de NetBeans
+/var/
+
+# ===================================================================
+# Archivos generales de IDEs y del sistema operativo
+# ===================================================================
+# Archivos de configuración de otros IDEs (buena práctica incluirlos)
+.idea/
+*.iml
+.vscode/
+
+# Archivos de log
+*.log
+
+# Archivos del sistema operativo
+.DS_Store # macOS
+Thumbs.db # Windows
