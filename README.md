@@ -1,4 +1,4 @@
-# Conversor de PDF a Wor
+# Conversor de PDF a Word
 
 Una aplicación de consola simple desarrollada en Java que convierte el texto de archivos PDF a documentos de Microsoft Word (.docx). Este proyecto fue creado para demostrar el uso de patrones de diseño de software en una aplicación funcional.
 
@@ -14,7 +14,7 @@ Una aplicación de consola simple desarrollada en Java que convierte el texto de
 
 ---
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 -   **Lenguaje:** Java 11+
 -   **Gestor de Dependencias:** Apache Maven
